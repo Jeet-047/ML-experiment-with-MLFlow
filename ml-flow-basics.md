@@ -28,11 +28,11 @@ MLflow Tracking is the **most commonly used** part of MLflow — it records all 
 ### 🔹 Basic Setup
 
 Install MLflow:
-```bash
-pip install mlflow
+```pip install mlflow```
 
 ---
-## Common Logging Functions Summary
+
+## 🎯 3. Common Logging Functions Summary 
 
 | Function                     | Description                          |
 | ---------------------------- | ------------------------------------ |
